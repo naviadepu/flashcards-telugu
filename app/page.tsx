@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 const words = {
     "Hello": "Namaskaram (నమస్కారం)",
     "GoodBye": "Tata (టాటా)",
-    "I'm drink water": "Nenu neellu taguthunanu(నేను నీళ్లు తాగుతున్నాను)",
+    "I'm drinking water": "Nenu neellu taguthunanu(నేను నీళ్లు తాగుతున్నాను)",
     "How are you": "Ela unnaru(ఎలా ఉన్నావు)",
     "What are you doing": "Em chesthunavu(ఎం చేస్తున్నావ్)",
     "What are you doing(formal)": "Meru em chesthunaru (మేరు ఎం చేస్తున్నారు)"
